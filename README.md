@@ -2,6 +2,9 @@
 This is an example showing you why RISCV is terrible.
 
 ```cpp
+/*
+C++20 and C23 they both require compilers to support std::byte_swap and std::rotr
+*/
 using uint_least64_t = __UINT_LEAST64_TYPE__;
 
 uint_least64_t testbswap(uint_least64_t a) noexcept
