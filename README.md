@@ -25,13 +25,13 @@ uint_least64_t testrotr(uint_least64_t a) noexcept
 
 LoongArch
 
-clang: [https://godbolt.org/z/xv3brnzvc](godbolt)
+clang: [godbolt](https://godbolt.org/z/xv3brnzvc)
 
-gcc (I guess gcc has some bugs here but still good enough to show the issue): [https://godbolt.org/z/bYvq7b8cs](godbolt)
+gcc (I guess gcc has some bugs here but still good enough to show the issue): [godbolt](https://godbolt.org/z/bYvq7b8cs)
 
 ---
 RISC-V
 
-clang: [https://godbolt.org/z/x774GvMx4](godbolt)
+clang: [godbolt](https://godbolt.org/z/x774GvMx4)
 
-gcc: [https://godbolt.org/z/hTj9c3r63](godbolt)
+gcc: [godbolt](https://godbolt.org/z/hTj9c3r63)
