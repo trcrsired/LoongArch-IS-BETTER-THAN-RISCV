@@ -1,5 +1,5 @@
-# LoongArch is better than RISC-V
-This is an example showing you why RISCV is bad.
+# RISCV bad LoongArch Good
+This is an example showing you why RISCV is terrible.
 
 ```cpp
 using uint_least64_t = __UINT_LEAST64_TYPE__;
