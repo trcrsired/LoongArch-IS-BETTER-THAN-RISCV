@@ -21,13 +21,17 @@ uint_least64_t testrotr(uint_least64_t a) noexcept
     return my_rotr(a,10);
 }
 ```
+---
 
 LoongArch
 
 clang: [https://godbolt.org/z/xv3brnzvc](godbolt)
+
 gcc (I guess gcc has some bugs here but still good enough to show the issue): [https://godbolt.org/z/bYvq7b8cs](godbolt)
 
+---
 RISC-V
 
 clang: [https://godbolt.org/z/x774GvMx4](godbolt)
+
 gcc: [https://godbolt.org/z/hTj9c3r63](godbolt)
